@@ -1,0 +1,4 @@
+github.com/Djarvur/go-mergeips v0.0.0-20191024014613-cd4f2e81d329 h1:XWTsTMezTmWjbkN2U4v7WTEpDbA96HQ2FwmHBaUIyEU=
+github.com/Djarvur/go-mergeips v0.0.0-20191024014613-cd4f2e81d329/go.mod h1:yLKwWRUDEyRgYWTG8nBqloa1UIZlAA5SkjJglZAQY/o=
+github.com/go-test/deep v1.0.4/go.mod h1:wGDj63lr65AM2AQyKZd/NYHGb0R+1RLqB8NKt3aSFNA=
+lukechampine.com/uint128 v1.0.0/go.mod h1:c4eWIwlEGaxC/+H1VguhU4PHXNWDCDMUlWdIWl2j1gk=
